@@ -1,0 +1,9 @@
+#example{
+    background-color: #8eb4cb;
+    text-align: center;
+    font-size: 25px;
+}
+.panel-default{
+    height: 100%;
+    margin-top: 10px;
+}
